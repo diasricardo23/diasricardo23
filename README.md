@@ -48,7 +48,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## Conecte-se Comigo
 
-- [LinkedIn](linkedin.com/in/ricardo-dias-b5ba49164/)
+- [LinkedIn](https://www.linkedin.com/in/rdiasmacedo/)
 - [Twitter](https://twitter.com/diasricardo__)
 - [Email](mailto:diasmacedo.ricardo@gmail.com)
 
@@ -109,7 +109,7 @@ Welcome to my GitHub profile! I am a developer passionate about technology and i
 
 ## Connect With Me
 
-- [LinkedIn](linkedin.com/in/ricardo-dias-b5ba49164/)
+- [LinkedIn](https://www.linkedin.com/in/rdiasmacedo/)
 - [Twitter](https://twitter.com/diasricardo__)
 - [Email](mailto:diasmacedo.ricardo@gmail.com)
 
