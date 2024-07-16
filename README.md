@@ -1,3 +1,4 @@
+<a name="portugues"></a>
 # Olá, eu sou Ricardo Dias 👋
 
 <p align="center">
@@ -11,7 +12,6 @@
 
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
-<a name="portugues"></a>
 ## Sobre Mim
 
 - 🎓 **Formação**: Engenharia de Redes pela Universidade de Brasília - UnB.
@@ -60,6 +60,7 @@ Obrigado pela visita! 😊
 
 ---
 
+<a name="english"></a>
 # Hello, I am Ricardo Dias 👋
 <p align="center">
   <a href="#portugues">
@@ -72,7 +73,6 @@ Obrigado pela visita! 😊
 
 Welcome to my GitHub profile! I am a developer passionate about technology and innovation.
 
-<a name="english"></a>
 ## About Me
 
 - 🎓 **Education**: Communication Network Engineering from Universidade de Brasília - UnB.
