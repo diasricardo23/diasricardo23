@@ -15,7 +15,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ## Sobre Mim
 
 - 🎓 **Formação**: Engenharia de Redes pela Universidade de Brasília - UnB.
-- 💼 **Atualmente trabalhando como**: Desenvolvedor Fullstack na Glim.
+- 💼 **Atualmente trabalhando como**: Desenvolvedor Full Stack na Glim.
 - 🌱 **Atualmente aprendendo**: System Designs, Web Security.
 
 ## Minhas Habilidades
@@ -76,7 +76,7 @@ Welcome to my GitHub profile! I am a developer passionate about technology and i
 ## About Me
 
 - 🎓 **Education**: Communication Network Engineering from Universidade de Brasília - UnB.
-- 💼 **Currently working as**: Fullstack Developer at Glim.
+- 💼 **Currently working as**: Full Stack Developer at Glim.
 - 🌱 **Currently learning**: System Designs, Web Security.
 
 ## My Skills
